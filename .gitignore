@@ -1,0 +1,15 @@
+# Generated simulation outputs
+*.csv
+*.mat
+*.fig
+fig*.png
+*.asv
+*.m~
+# Local/private data and credentials
+.env*
+*.key
+*.pem
+private/
+data-private/
+.DS_Store
+Thumbs.db
