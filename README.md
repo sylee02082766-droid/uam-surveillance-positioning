@@ -4,7 +4,7 @@ MATLAB simulation of MLAT/TDOA tracking for an urban air mobility corridor, with
 
 ## Project context and my role
 
-I am **SANGYEOP LEE (이상엽)**, a student researcher in the Autonomous Systems and Optimization Laboratory (ASOL), Korea Aerospace University. In the **2025 UAM Olympiad**, I served as deputy team leader of **AirWave**, contributing to the research direction, team coordination and simulation. The team received the Minister of Land, Infrastructure and Transport Award in radio environment analysis.
+I am **LEE SANGYEOP (이상엽)**, a student researcher in the Autonomous Systems and Optimization Laboratory (ASOL), Korea Aerospace University. In the **2025 UAM Olympiad**, I served as deputy team leader of **AirWave**, contributing to the research direction, team coordination and simulation. The team received the Minister of Land, Infrastructure and Transport Award in radio environment analysis.
 
 This source snapshot is the **later MATLAB MLAT tracking research**, associated with my first-author ICROS 2026 paper/poster, *Robust UAM Tracking Using Prior Flight Information under Reduced MLAT Receiver Availability*. It is not represented as the exact original Olympiad submission and does not implement the full Olympiad MLAT/5G hybrid system.
 
