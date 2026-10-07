@@ -16,6 +16,8 @@ The source was selected from `UAM_ver2/uam_ablation_full/최종/UAM_A1A2_matlab_
 
 The complete final workflow is `runMonteCarlo_A1_A2` → `make_MCmedian_representative_figures` → `plotRouteAndProfiles_korean_obstacles` → `make_combined_fig1_for_paper`. The code distinguishes the nominal flight-plan reference from the perturbed actual trajectory. Earlier EKF/IMM and B0–B8 development snapshots were inventoried during selection; the default files here are the final paper snapshot. The public demonstration below uses synthetic obstacles, so its numerical output is separate from the original paper results.
 
+See [source selection evidence](SOURCE_SELECTION.md) for the correspondence with the final paper and the original local evaluation records.
+
 ## What is included
 
 - Three-dimensional takeoff, cruise, approach and descent trajectories.
