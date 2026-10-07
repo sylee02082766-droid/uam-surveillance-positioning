@@ -10,6 +10,12 @@ This source snapshot is the **later MATLAB MLAT tracking research**, associated 
 
 [Public Olympiad project overview](https://large-eucalyptus-ee4.notion.site/UAM-30982be26a1180f9a53ec453d3e7580c)
 
+## Final research snapshot
+
+The source was selected from `UAM_ver2/uam_ablation_full/최종/UAM_A1A2_matlab_simulator/MLAT 수신기 감소 논문 코드` after comparing the desktop research versions with the final ICROS paper materials. Its paired evaluation of 50 trials across three methods and its median-A2 representative-trial selection match the final paper's experiment and figure workflow.
+
+The complete final workflow is `runMonteCarlo_A1_A2` → `make_MCmedian_representative_figures` → `plotRouteAndProfiles_korean_obstacles` → `make_combined_fig1_for_paper`. The code distinguishes the nominal flight-plan reference from the perturbed actual trajectory. Earlier EKF/IMM and B0–B8 development snapshots were inventoried during selection; the default files here are the final paper snapshot. The public demonstration below uses synthetic obstacles, so its numerical output is separate from the original paper results.
+
 ## What is included
 
 - Three-dimensional takeoff, cruise, approach and descent trajectories.
